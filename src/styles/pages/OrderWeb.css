@@ -1,0 +1,6 @@
+.container-order-web {
+    width: 100%;
+    background: linear-gradient(to right bottom, #3103B0, #3103B0, #0D045A, #0D045A, #0B0457 );
+    height: 200vh;
+    font-family: var(--font-family-sans-serif);
+}

@@ -1,0 +1,10 @@
+form {
+    width: 80%;
+}
+
+form button {
+    background-color: rgb(255, 149, 0) !important;
+    text-align: center;
+    width: 105%;
+    height: 40px;
+}

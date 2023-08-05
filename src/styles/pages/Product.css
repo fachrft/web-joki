@@ -1,0 +1,18 @@
+.container-product {
+    width: 100%;
+    background: linear-gradient(to right bottom, #3103b0, #3103b0, #0d045a, #0d045a, #0b0457);
+    height: 200vh;
+    font-family: var(--font-family-sans-serif);
+}
+
+.penampung-card {
+    display: flex;
+    justify-content: space-around;
+    /* border: 5px solid white !important; */
+    margin-top: 100px;
+}
+
+.penampung-card .container-card button {
+    height: 40px;
+    width: 200px;
+}

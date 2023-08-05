@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+:root {
+    --font-family: 'Poppins', sans-serif;
+}
+
+.penampung-all-users {
+    width: 100%;
+    background: linear-gradient(to right bottom, #3103B0, #3103B0, #0D045A, #0D045A, #0B0457 );
+    height: 200vh;
+    font-family: var(--font-family);
+}
+
+.container-card-all-users {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
